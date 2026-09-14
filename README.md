@@ -1,6 +1,6 @@
 # slm
 
-This code is a mess! This is left as I was using it.
+This code is a mess! This is left as I was using it. This is mainly written to help me remember what I did, not to provide a guide for other people. I wrote the code quickly to investigate various things. A lot of things won't be defined, sorry, and I have not spent time organising it. Please reach out if you have any questions! Contact me at alexander.cooke@sjc.ox.ac.uk.
 
 This code was for my summer research project at Imperial. I worked in the Imperial Strontium Lab, (https://www.stronlab.net/) and (https://www.hep.ph.ic.ac.uk/AION-Project/).
 
