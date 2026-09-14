@@ -26,6 +26,8 @@ Thorlabs camera drivers are installed automatically with ThorCam or ThorImageCam
 
 There is a bug in the source code of slmsuite for interaction with the Thorlabs camera. The fix is in labbook entry (https://labbook.stronlab.net/2026/2026-08-03-SLM-calibration-continued). The correct `thorlabs.py` file is in the repo (can also be found well as in the git bug report).
 
+Also for some reason need this `\src\slm` folder with an `__init__.py` file. Don't know why!
+
 # Beware
 
 Camera should be initiated with `cam = ThorCam(rot = "270")` given the current physical camera setup, but not all code files have this. This should be set given the physical orientation of the camera.
